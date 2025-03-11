@@ -1,6 +1,6 @@
 # Kaylee Wright
 
-Welcome to the party! 👋 🎈 🥳
+Nice to meet you! 👋🏻 😊
 
 I'm Kaylee, a student at Brigham Young University-Idaho interested in computer science, cloud computing, and web/mobile development. Welcome to my GitHub profile!
 
