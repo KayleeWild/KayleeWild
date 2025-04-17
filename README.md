@@ -2,7 +2,7 @@
 
 Nice to meet you! 👋🏻 😊
 
-I'm Kaylee, a student at Brigham Young University-Idaho interested in computer science, cloud computing, and web/mobile development. Welcome to my GitHub profile!
+I'm Kaylee, a student at Brigham Young University-Idaho studying computer science and cloud computing. I'm also interested web/mobile development and data science. Welcome to my GitHub profile!
 
 ## About Me
 
